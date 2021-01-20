@@ -2,7 +2,7 @@
 
 Simon game website works on logic codes made on javascript language. It is interactive  website.
 
-Hosted Version:
+Hosted Version: https://yashsinghchauhan-formal.github.io/Simon-Game/
 
 
 
